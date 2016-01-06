@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: pink;
+}
+
+.flashy {
+  color: red;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.best {
+  font-family: cursive;
+  font-size: 32;
+  color: purple;
+  text-decoration: overline;
+
+}
